@@ -1,3 +1,5 @@
 public class Despair {
-    void 
+    public static void main(String[] args) {
+        
+    } 
 }
